@@ -1,4 +1,4 @@
-🛒 E-Commerce Product Review Sentiment Analyzer
+🛒 *E-COMMERCE-PRODUCT-REVIEW-SENTIMENT-ANALYZER*
 
 Classifying customer product reviews into Positive or Negative sentiments using Natural Language Processing (NLP) and Machine Learning techniques.
 
