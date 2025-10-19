@@ -1,8 +1,8 @@
-🛒 *E-COMMERCE-PRODUCT-REVIEW-SENTIMENT-ANALYZER*
+# 🛒E-COMMERCE-PRODUCT-REVIEW-SENTIMENT-ANALYZER
 
 Classifying customer product reviews into Positive or Negative sentiments using Natural Language Processing (NLP) and Machine Learning techniques.
 
-📖 Project Overview
+# Project Overview
 
 This project focuses on developing an automated sentiment analysis system for e-commerce product reviews using Natural Language Processing (NLP) and Machine Learning (ML).
 The goal is to help online retailers and businesses extract actionable insights from customer feedback to improve user experience, identify areas of dissatisfaction, and make data-driven marketing decisions.
@@ -10,7 +10,7 @@ The goal is to help online retailers and businesses extract actionable insights 
 The system processes raw text reviews, cleans and tokenizes the data, extracts features using TF-IDF and Bag-of-Words (BoW), and classifies sentiments using multiple machine learning algorithms.
 A user-friendly Streamlit web app was developed to allow interactive sentiment predictions in real time.
 
-🎯 Objectives
+# Objectives
 
 Automate sentiment classification of e-commerce product reviews.
 
@@ -20,7 +20,7 @@ Deploy the best-performing model on a web interface for end-user interaction.
 
 Provide insights that can guide businesses in improving customer satisfaction and product quality.
 
-⚙️ Tools, Libraries & Tech Stack
+# Tools, Libraries & Tech Stack
 
 Programming Language: Python
 
@@ -48,7 +48,7 @@ VS Code / Anaconda
 
 GitHub
 
-🧩 Workflow / Steps to Execute
+# Workflow / Steps to Execute
 1️⃣ Data Collection
 
 The dataset consisted of customer product reviews with associated metadata (rating, date, and location).
@@ -97,7 +97,7 @@ Hyperparameter tuning with GridSearchCV improved SVM’s performance on edge-cas
 Deployed the final SVM model using Streamlit.
 Users can type or paste product reviews and instantly see whether they are classified as Positive or Negative.
 
-📊 Results & Key Insights
+# Results & Key Insights
 Model	Technique	Accuracy	F1-Score	Notes
 Naive Bayes	Bag-of-Words	93%	0.92	Solid baseline model
 SVM	TF-IDF	94%	0.94	Best performing model
@@ -111,7 +111,7 @@ SVM with TF-IDF captured subtle contextual patterns better than rule-based model
 
 The web app allows non-technical users to analyze sentiment interactively.
 
-💡 Recommendations
+# Recommendations
 
 Integrate deep learning models like BERT or LSTM for context-aware multilingual sentiment detection.
 
@@ -119,7 +119,7 @@ Expand dataset to include more regions for global sentiment coverage.
 
 Incorporate real-time monitoring to track customer feedback trends.
 
-🧠 Business Impact
+# Business Impact
 
 Helped e-commerce teams prioritize negative feedback for quick resolution.
 
@@ -127,7 +127,7 @@ Provided sentiment-driven insights for marketing, product improvement, and custo
 
 Enabled automated sentiment scoring without manual labeling.
 
-🧰 How to Run Locally
+# How to Run Locally
 # Clone this repository
 git clone https://github.com/<your-username>/ecommerce-sentiment-analyzer.git
 cd ecommerce-sentiment-analyzer
@@ -157,15 +157,7 @@ Ecommerce-Sentiment-Analyzer/
 ├── requirements.txt
 └── README.md
 
-📅 Project Timeline
-
-Start Date: May 2025
-
-End Date: July 2025
-
-Status: ✅ Completed
-
-🏁 Outcome Summary
+# Outcome Summary
 
 This project successfully developed and deployed a Machine Learning-based sentiment analysis system for e-commerce reviews, achieving a 94% accuracy rate.
 It demonstrates proficiency in NLP, feature engineering, model evaluation, and deployment — key competencies for data science and ML engineering roles.
