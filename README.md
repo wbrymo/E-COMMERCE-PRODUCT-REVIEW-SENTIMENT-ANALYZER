@@ -98,10 +98,13 @@ Deployed the final SVM model using Streamlit.
 Users can type or paste product reviews and instantly see whether they are classified as Positive or Negative.
 
 # Results & Key Insights
-Model	Technique	Accuracy	F1-Score	Notes
-Naive Bayes	Bag-of-Words	93%	0.92	Solid baseline model
-SVM	TF-IDF	94%	0.94	Best performing model
-VADER	Lexicon-based	76%	0.70	Struggled with nuanced reviews
+Model	---------------Technique-------------Accuracy------------F1-Score---------------Notes
+
+Naive Bayes---------Bag-of-Words--------------93%----------------0.92---------------Solid baseline model
+
+SVM-------------------TF-IDF--------------------94%----------------0.94---------------Best performing model
+
+VADER---------------Lexicon-based-------------76%----------------0.70---------------Struggled with nuanced reviews
 
 Key Findings:
 
