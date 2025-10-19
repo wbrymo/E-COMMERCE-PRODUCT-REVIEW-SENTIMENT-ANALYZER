@@ -145,18 +145,31 @@ The app will open in your browser at:
 👉 http://localhost:8501
 
 📁 Folder Structure
+
 Ecommerce-Sentiment-Analyzer/
+
 │
+
 ├── data/
+
 │   └── reviews_dataset.csv
+
 │
+
 ├── notebooks/
+
 │   ├── EDA.ipynb
+
 │   ├── Model_Training.ipynb
+
 │
+
 ├── app.py
+
 ├── sentiment_model.pkl
+
 ├── requirements.txt
+
 └── README.md
 
 # Outcome Summary
