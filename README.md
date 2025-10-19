@@ -130,7 +130,6 @@ Provided sentiment-driven insights for marketing, product improvement, and custo
 
 Enabled automated sentiment scoring without manual labeling.
 
-# How to Run Locally
 # Clone this repository
 git clone https://github.com/<your-username>/ecommerce-sentiment-analyzer.git
 cd ecommerce-sentiment-analyzer
